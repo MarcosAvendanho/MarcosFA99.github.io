@@ -460,7 +460,7 @@ article.formulario footer p{
 }
 button{
     margin-top: 2%;
-    width:4%;
+    width: fit-content;
     border-radius: 5%;
     background:linear-gradient(rgb(236, 172, 53),orange);
    border: none;
